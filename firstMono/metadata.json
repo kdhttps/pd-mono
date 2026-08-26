@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "94e1422b6f4d10d032ac8277fe7260fc5be83d5cdbd6",
+        "name": "firstMono",
+        "description": "first mono repo test",
+        "version": "0.0.0",
+        "created_date": "2026-08-26T08:07:47.073599+00:00",
+        "updated_date": "2026-08-26T08:07:47.073634+00:00"
+    }
+}
